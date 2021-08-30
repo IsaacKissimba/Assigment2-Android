@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity4">
+
+
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="My Profile"
+        android:textSize="24sp"
+        android:layout_margin="70dp"/>
+
+
+    <ImageView
+        android:layout_width="250px"
+        android:layout_height="250px"
+        android:layout_marginTop="300px"
+        android:layout_marginBottom="50px"
+        android:src="@drawable/iizy" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:text="MR NYEMBO"
+        android:layout_marginTop="250dp"/>
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:text="  I'am Mr Nyembo, am congolese, am 24 Years odl and studen at CPUT
+,am studying IT, am in seond year. Beside of that i also work as part time web developer."
+        android:layout_marginTop="280dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:text="  I have many skills beside being a web developper, am good in gaiming, in cooking
+and so many things."
+        android:layout_marginTop="335dp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:text="  I dont really have fobbies, but i do not like spiders, it quiet funny but yes its
+is what it is. I like playing soccer and by the awy am a fitness coach at Virgin
+active, am actually a personal trainer."
+        android:layout_marginTop="385dp"/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:text="  In the near futur i would like to be a big programmer and web developer,
+that is one of my dreams. The goal is to overcome all my needs by hard working."
+        android:layout_marginTop="450dp"/>
+
+
+
+
+
+
+</RelativeLayout>
